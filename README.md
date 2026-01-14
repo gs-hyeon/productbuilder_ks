@@ -1,2 +1,2 @@
-# productbulider_ks
+# productbuilder_ks
 product building using AI
